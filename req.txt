@@ -1,0 +1,11 @@
+pip install streamlit
+pip install pandas
+pip install numpy
+pip install requests
+pip install matplotlib
+pip install vaderSentiment
+pip install yfinance
+
+
+tingooo  -  ab89107fabdd3f0939e7c13ee85d5b9e6ba445ce
+finhubb - d4bq5phr01qoua311bmgd4bq5phr01qoua311bn0
